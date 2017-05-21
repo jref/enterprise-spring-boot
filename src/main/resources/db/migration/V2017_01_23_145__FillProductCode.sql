@@ -1,0 +1,1 @@
+UPDATE product SET product.code = 'DEFAULT_CODE';
